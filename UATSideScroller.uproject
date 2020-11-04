@@ -16,6 +16,21 @@
 		{
 			"Name": "SoundUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "SnapSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fa834687594944f5aafe2be8b44ad3f1"
+		},
+		{
+			"Name": "Restart",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1bf89025ddf246e3af3c196d0426e0d3"
+		},
+		{
+			"Name": "TimeMachine",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3f89049c41fa4fedbe03e8afbf4ac5b3"
 		}
 	]
 }
